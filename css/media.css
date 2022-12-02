@@ -1,0 +1,17 @@
+@media screen and (max-width:900px){
+    .col{
+        width: 48%;
+        margin-bottom: 50px;
+    }
+}
+@media screen and (max-width:768px){
+    .col{
+        width: 70%;
+        margin: 20px auto;
+    }
+}
+@media screen and (max-width:540px){
+    .col{
+        width: 100%;
+    }
+}
